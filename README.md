@@ -4,8 +4,7 @@ Curso oferecido pelo SENAC em parceria com a UFRB, ministrado pelo professor Gab
 
 ## Demonstração
 
-Confira uma demonstração online de nossos projetos em: <a href="https://gabriel61.github.io/JavaScript-SENAC/portifolio/index.html" target="_blank">https://gabriel61.github.io/JavaScript-SENAC/portifolio/index.html</a>
-
+Confira uma demonstração online de nossos projetos em: https://github.com/caiosouza0/Portifolio/blob/main/index.html
 ## Conclusão
 No curso, exploramos profundamente o JavaScript e suas diversas funcionalidades. Aplicamos os fundamentos teóricos em uma série de projetos práticos, que incluíram a criação de uma calculadora (tanto simples quanto científica), um quiz interativo, uma bateria virtual e relógio analógico e digital. Esses projetos nos permitiram não apenas entender, mas também experimentar a aplicação prática dos conceitos aprendidos.
 
@@ -24,12 +23,12 @@ Contribuições são sempre bem-vindas! Caso tenha alguma sugestão, abra uma is
 </br>
 
 <a href="https://github.com/caiosouza0">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/gabriel61" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="" width="100px;" alt=""/>
  <br />
  
- [![Linkedin Badge](https://img.shields.io/badge/-gabrielsampaio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-oliveira-852759190/)](https://www.linkedin.com/in/gabriel-oliveira-852759190/)
+ [![Linkedin Badge](https://www.linkedin.com/in/caio-souza-a0ab71251/)
 <br>
-sogabris@gmail.com
+caiosouzaa200@gmail.com
 <br>
 
 ---
