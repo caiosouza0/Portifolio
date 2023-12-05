@@ -4,7 +4,7 @@ Curso oferecido pelo SENAC em parceria com a UFRB, ministrado pelo professor Gab
 
 ## Demonstração
 
-Confira uma demonstração online de nossos projetos em: https://github.com/caiosouza0/Portifolio/blob/main/index.html
+Confira uma demonstração online de nossos projetos em: https://caiosouza0.github.io/Portifolio/
 ## Conclusão
 No curso, exploramos profundamente o JavaScript e suas diversas funcionalidades. Aplicamos os fundamentos teóricos em uma série de projetos práticos, que incluíram a criação de uma calculadora (tanto simples quanto científica), um quiz interativo, uma bateria virtual e relógio analógico e digital. Esses projetos nos permitiram não apenas entender, mas também experimentar a aplicação prática dos conceitos aprendidos.
 
